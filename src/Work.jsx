@@ -37,7 +37,6 @@ function Work() {
             <li>React</li>
             <li>RESTful APIs</li>
             <li>JavaScript</li>
-            <li>SASS</li>
             <li>Firebase</li>
           </ul>
         </div>
